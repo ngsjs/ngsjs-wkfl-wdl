@@ -1,0 +1,79 @@
+{
+  "github": {
+    "gatk-workflows": {
+      "repos": ["broad-prod-wgs-germline-snps-indels", "five-dollar-genome-analysis-pipeline", "gatk3-4-rnaseq-germline-snps-indels", "gatk3-data-processing", "gatk3-germline-snps-indels", "gatk4-cnn-variant-filter", "gatk4-data-processing", "gatk4-germline-snps-indels", "gatk4-somatic-cnvs", "gatk4-somatic-snvs-indels", "gatk4-somatic-with-preprocessing", "intel-faster-alternative-samples", "intel-gatk3-4-germline-snps-indels", "intel-gatk3-germline-snps-indels", "intel-gatk4-germline-snps-indels", "intel-gatk4-somatic-with-preprocessing", "seq-format-conversion", "seq-format-validation"],
+      "rate" : 10
+    },
+    "ncsa": {
+      "repos": "MayomicsVC"
+    }, 
+    "biowdl": {
+      "repos": ["tasks", "virus-assembly", "pipeline-template", "germline-DNA", "gams", "RNA-seq", "somatic-variantcalling", "expression-quantification", "QC", "BamMetrics", "bam-to-gvcf", "aligning", "gatk-preprocess", "jointgenotyping", "ChIP-seq"],
+      "rate" : 10
+    },
+    "oskarvid": {
+      "repos": "wdl_germline_pipeline"
+    },
+    "jimmybgammyknee": {
+      "repos": ["uofaBioWDL", "workflows"]
+    },
+    "antonkulaga": {
+      "repos": "antonkulaga"
+    },
+    "johnmous": {
+      "repos": "ChIPseq"
+    },
+    "bgm-cwg": {
+      "repos": ["Whole-Genome-Sequencing-Workflow", "Whole-Exome-Sequencing-Workflow"]
+    },
+    "cancerit":{
+      "repos": "BRASS-wdl"
+    },
+    "genomicsITER-developers":{
+      "repos": "wdl"
+    },
+    "Kurt-Hetrick":{
+      "repos": "WDL"
+    },
+    "mkim55":{
+      "repos": "deepvar-wdl"
+    },
+    "SanderEST":{
+      "repos": "cromwell_wdl"
+    },
+    "ottojolanki":{
+      "repos": "kallisto-wdl"
+    },
+    "Seonwhee-Genome":{
+      "repos": "GATK_WDL"
+    },
+    "raisok":{
+      "repos": "RNAseq_WDL"
+    },
+    "manning-lab":{
+      "repos": ["saigeWdl", "wgsaParsrWdl"]
+    },
+    "dnanexus-rnd":{
+      "repos": "DeepVariant-GLnexus-WDL"
+    },
+    "broadinstitute":{
+      "repos": "TSCA_firecloud_WDLS"
+    },
+    "camccowan":{
+      "repos": "PacBio-WDL-Tools"
+    },
+    "edawson":{
+      "repos": "firecloud-tools",
+      "rate" : 10
+    },
+    "hongiiv":{
+      "repos": "gatk-workflows"
+    },
+    "karlrl":{
+      "repos": "mgs_sop"
+    },
+    "omixer":{
+      "repos": "metagenophile"
+    }
+  }
+}

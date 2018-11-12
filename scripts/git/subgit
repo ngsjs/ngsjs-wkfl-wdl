@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+sites=`rconfig ./workflow/meta.json -r 'names(x)'`
+for site in $sites
+do
+  for user in `rconfig ./workflow/meta.json -r "names(x[[\"$site\"]])"`
+  do
+    repos=`rconfig ./workflow/meta.json -r "x[[\"$site\"]][[\"$user\"]][['repos']]"`
+    for repo in $repos
+    do
+      git submodule add https://${site}.com/${user}/${repo} workflow/${site}/${user}/${repo}/ --force
+    done
+  done
+done

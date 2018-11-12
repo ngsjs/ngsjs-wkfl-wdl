@@ -1,0 +1,15 @@
+{
+  "name": "ngsjs-wkfl-wdl",
+  "version": "0.0.1",
+  "description": "ngsjs project collected next-generation sequencing data analysis workflow (WDL language).",
+  "main": "index.js",
+  "repository": "https://github/ngsjs/ngsjs-wkfl-wdl",
+  "author": "Jianfeng Li",
+  "license": "MIT",
+  "dependencies": {
+    "ngsjs": "^0.1.4"
+  },
+  "scripts": {
+    "subgit": "./scripts/git/subgit"
+  }
+}

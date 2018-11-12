@@ -1,0 +1,159 @@
+[submodule "workflow/github/gatk-workflows/intel-gatk4-somatic-with-preprocessing"]
+	path = workflow/github/gatk-workflows/intel-gatk4-somatic-with-preprocessing
+	url = https://github.com/gatk-workflows/intel-gatk4-somatic-with-preprocessing
+[submodule "workflow/github/gatk-workflows/seq-format-validation"]
+	path = workflow/github/gatk-workflows/seq-format-validation
+	url = https://github.com/gatk-workflows/seq-format-validation
+[submodule "workflow/github/gatk-workflows/intel-gatk3-4-germline-snps-indels"]
+	path = workflow/github/gatk-workflows/intel-gatk3-4-germline-snps-indels
+	url = https://github.com/gatk-workflows/intel-gatk3-4-germline-snps-indels
+[submodule "workflow/github/gatk-workflows/gatk3-data-processing"]
+	path = workflow/github/gatk-workflows/gatk3-data-processing
+	url = https://github.com/gatk-workflows/gatk3-data-processing
+[submodule "workflow/github/gatk-workflows/gatk4-data-processing"]
+	path = workflow/github/gatk-workflows/gatk4-data-processing
+	url = https://github.com/gatk-workflows/gatk4-data-processing
+[submodule "workflow/github/gatk-workflows/intel-gatk4-germline-snps-indels"]
+	path = workflow/github/gatk-workflows/intel-gatk4-germline-snps-indels
+	url = https://github.com/gatk-workflows/intel-gatk4-germline-snps-indels
+[submodule "workflow/github/gatk-workflows/intel-gatk3-germline-snps-indels"]
+	path = workflow/github/gatk-workflows/intel-gatk3-germline-snps-indels
+	url = https://github.com/gatk-workflows/intel-gatk3-germline-snps-indels
+[submodule "workflow/github/gatk-workflows/gatk3-4-rnaseq-germline-snps-indels"]
+	path = workflow/github/gatk-workflows/gatk3-4-rnaseq-germline-snps-indels
+	url = https://github.com/gatk-workflows/gatk3-4-rnaseq-germline-snps-indels
+[submodule "workflow/github/gatk-workflows/gatk4-somatic-with-preprocessing"]
+	path = workflow/github/gatk-workflows/gatk4-somatic-with-preprocessing
+	url = https://github.com/gatk-workflows/gatk4-somatic-with-preprocessing
+[submodule "workflow/github/gatk-workflows/gatk4-somatic-cnvs"]
+	path = workflow/github/gatk-workflows/gatk4-somatic-cnvs
+	url = https://github.com/gatk-workflows/gatk4-somatic-cnvs
+[submodule "workflow/github/gatk-workflows/gatk4-somatic-snvs-indels"]
+	path = workflow/github/gatk-workflows/gatk4-somatic-snvs-indels
+	url = https://github.com/gatk-workflows/gatk4-somatic-snvs-indels
+[submodule "workflow/github/jimmybgammyknee/workflows"]
+	path = workflow/github/jimmybgammyknee/workflows
+	url = https://github.com/jimmybgammyknee/workflows
+[submodule "workflow/github/biowdl/virus-assembly"]
+	path = workflow/github/biowdl/virus-assembly
+	url = https://github.com/biowdl/virus-assembly
+[submodule "workflow/github/gatk-workflows/five-dollar-genome-analysis-pipeline"]
+	path = workflow/github/gatk-workflows/five-dollar-genome-analysis-pipeline
+	url = https://github.com/gatk-workflows/five-dollar-genome-analysis-pipeline
+[submodule "workflow/github/biowdl/bam-to-gvcf"]
+	path = workflow/github/biowdl/bam-to-gvcf
+	url = https://github.com/biowdl/bam-to-gvcf
+[submodule "workflow/github/biowdl/jointgenotyping"]
+	path = workflow/github/biowdl/jointgenotyping
+	url = https://github.com/biowdl/jointgenotyping
+[submodule "workflow/github/biowdl/ChIP-seq"]
+	path = workflow/github/biowdl/ChIP-seq
+	url = https://github.com/biowdl/ChIP-seq
+[submodule "workflow/github/gatk-workflows/broad-prod-wgs-germline-snps-indels"]
+	path = workflow/github/gatk-workflows/broad-prod-wgs-germline-snps-indels
+	url = https://github.com/gatk-workflows/broad-prod-wgs-germline-snps-indels
+[submodule "workflow/github/biowdl/gams"]
+	path = workflow/github/biowdl/gams
+	url = https://github.com/biowdl/gams
+[submodule "workflow/github/biowdl/pipeline-template"]
+	path = workflow/github/biowdl/pipeline-template
+	url = https://github.com/biowdl/pipeline-template
+[submodule "workflow/github/johnmous/ChIPseq"]
+	path = workflow/github/johnmous/ChIPseq
+	url = https://github.com/johnmous/ChIPseq
+[submodule "workflow/github/biowdl/RNA-seq"]
+	path = workflow/github/biowdl/RNA-seq
+	url = https://github.com/biowdl/RNA-seq
+[submodule "workflow/github/gatk-workflows/gatk4-germline-snps-indels"]
+	path = workflow/github/gatk-workflows/gatk4-germline-snps-indels
+	url = https://github.com/gatk-workflows/gatk4-germline-snps-indels
+[submodule "workflow/github/cancerit/BRASS-wdl"]
+	path = workflow/github/cancerit/BRASS-wdl
+	url = https://github.com/cancerit/BRASS-wdl
+[submodule "workflow/github/biowdl/germline-DNA"]
+	path = workflow/github/biowdl/germline-DNA
+	url = https://github.com/biowdl/germline-DNA
+[submodule "workflow/github/mkim55/deepvar-wdl"]
+	path = workflow/github/mkim55/deepvar-wdl
+	url = https://github.com/mkim55/deepvar-wdl
+[submodule "workflow/github/SanderEST/cromwell_wdl"]
+	path = workflow/github/SanderEST/cromwell_wdl
+	url = https://github.com/SanderEST/cromwell_wdl
+[submodule "workflow/github/Seonwhee-Genome/GATK_WDL"]
+	path = workflow/github/Seonwhee-Genome/GATK_WDL
+	url = https://github.com/Seonwhee-Genome/GATK_WDL
+[submodule "workflow/github/ottojolanki/kallisto-wdl"]
+	path = workflow/github/ottojolanki/kallisto-wdl
+	url = https://github.com/ottojolanki/kallisto-wdl
+[submodule "workflow/github/dnanexus-rnd/DeepVariant-GLnexus-WDL"]
+	path = workflow/github/dnanexus-rnd/DeepVariant-GLnexus-WDL
+	url = https://github.com/dnanexus-rnd/DeepVariant-GLnexus-WDL
+[submodule "workflow/github/broadinstitute/TSCA_firecloud_WDLS"]
+	path = workflow/github/broadinstitute/TSCA_firecloud_WDLS
+	url = https://github.com/broadinstitute/TSCA_firecloud_WDLS
+[submodule "workflow/github/bgm-cwg/Whole-Genome-Sequencing-Workflow"]
+	path = workflow/github/bgm-cwg/Whole-Genome-Sequencing-Workflow
+	url = https://github.com/bgm-cwg/Whole-Genome-Sequencing-Workflow
+[submodule "workflow/github/karlrl/mgs_sop"]
+	path = workflow/github/karlrl/mgs_sop
+	url = https://github.com/karlrl/mgs_sop
+[submodule "workflow/github/omixer/metagenophile"]
+	path = workflow/github/omixer/metagenophile
+	url = https://github.com/omixer/metagenophile
+[submodule "workflow/github/genomicsITER-developers/wdl"]
+	path = workflow/github/genomicsITER-developers/wdl
+	url = https://github.com/genomicsITER-developers/wdl
+[submodule "workflow/github/raisok/RNAseq_WDL"]
+	path = workflow/github/raisok/RNAseq_WDL
+	url = https://github.com/raisok/RNAseq_WDL
+[submodule "workflow/github/camccowan/PacBio-WDL-Tools"]
+	path = workflow/github/camccowan/PacBio-WDL-Tools
+	url = https://github.com/camccowan/PacBio-WDL-Tools
+[submodule "workflow/github/biowdl/QC"]
+	path = workflow/github/biowdl/QC
+	url = https://github.com/biowdl/QC
+[submodule "workflow/github/biowdl/tasks"]
+	path = workflow/github/biowdl/tasks
+	url = https://github.com/biowdl/tasks
+[submodule "workflow/github/manning-lab/wgsaParsrWdl"]
+	path = workflow/github/manning-lab/wgsaParsrWdl
+	url = https://github.com/manning-lab/wgsaParsrWdl
+[submodule "workflow/github/hongiiv/gatk-workflows"]
+	path = workflow/github/hongiiv/gatk-workflows
+	url = https://github.com/hongiiv/gatk-workflows
+[submodule "workflow/github/ncsa/MayomicsVC"]
+	path = workflow/github/ncsa/MayomicsVC
+	url = https://github.com/ncsa/MayomicsVC
+[submodule "workflow/github/antonkulaga/antonkulaga"]
+	path = workflow/github/antonkulaga/antonkulaga
+	url = https://github.com/antonkulaga/antonkulaga
+[submodule "workflow/github/gatk-workflows/intel-faster-alternative-samples"]
+	path = workflow/github/gatk-workflows/intel-faster-alternative-samples
+	url = https://github.com/gatk-workflows/intel-faster-alternative-samples
+[submodule "workflow/github/gatk-workflows/seq-format-conversion"]
+	path = workflow/github/gatk-workflows/seq-format-conversion
+	url = https://github.com/gatk-workflows/seq-format-conversion
+[submodule "workflow/github/biowdl/somatic-variantcalling"]
+	path = workflow/github/biowdl/somatic-variantcalling
+	url = https://github.com/biowdl/somatic-variantcalling
+[submodule "workflow/github/biowdl/aligning"]
+	path = workflow/github/biowdl/aligning
+	url = https://github.com/biowdl/aligning
+[submodule "workflow/github/oskarvid/wdl_germline_pipeline"]
+	path = workflow/github/oskarvid/wdl_germline_pipeline
+	url = https://github.com/oskarvid/wdl_germline_pipeline
+[submodule "workflow/github/jimmybgammyknee/uofaBioWDL"]
+	path = workflow/github/jimmybgammyknee/uofaBioWDL
+	url = https://github.com/jimmybgammyknee/uofaBioWDL
+[submodule "workflow/github/bgm-cwg/Whole-Exome-Sequencing-Workflow"]
+	path = workflow/github/bgm-cwg/Whole-Exome-Sequencing-Workflow
+	url = https://github.com/bgm-cwg/Whole-Exome-Sequencing-Workflow
+[submodule "workflow/github/Kurt-Hetrick/WDL"]
+	path = workflow/github/Kurt-Hetrick/WDL
+	url = https://github.com/Kurt-Hetrick/WDL
+[submodule "workflow/github/manning-lab/saigeWdl"]
+	path = workflow/github/manning-lab/saigeWdl
+	url = https://github.com/manning-lab/saigeWdl
+[submodule "workflow/github/edawson/firecloud-tools"]
+	path = workflow/github/edawson/firecloud-tools
+	url = https://github.com/edawson/firecloud-tools
