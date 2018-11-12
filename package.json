@@ -1,6 +1,6 @@
 {
   "name": "ngsjs-wkfl-wdl",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "ngsjs project collected next-generation sequencing data analysis workflow (WDL language).",
   "main": "index.js",
   "repository": "https://github/ngsjs/ngsjs-wkfl-wdl",
